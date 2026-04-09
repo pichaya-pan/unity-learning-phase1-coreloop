@@ -37,5 +37,10 @@ public class PlayerMovement3D : MonoBehaviour
         {
             currentSpeed = speed;
         }
+
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            transform.position += new Vector3(0f, 1f, 0f);
+        }
     }
 }
