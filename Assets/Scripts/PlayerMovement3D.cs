@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class PlayerMovement3D : MonoBehaviour
 {
-    public float speed = 5f;
+    public float speed = 10f;   //Office buff speed
     public float currentSpeed;
 
     
