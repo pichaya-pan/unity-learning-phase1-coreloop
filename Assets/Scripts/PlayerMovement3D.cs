@@ -2,9 +2,9 @@ using UnityEngine;
 
 public class PlayerMovement3D : MonoBehaviour
 {
-    public float speed = 2f;    // Remote slow speed
+    public float speed = 7f;    // Balance speed
     public float currentSpeed;
-    
+
     
     private void Update()
     {
