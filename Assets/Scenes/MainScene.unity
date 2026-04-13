@@ -446,7 +446,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b23e997ea5c9d6141a92d2dd09b11057, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerMovement3D
-  speed: 10
+  speed: 7
   currentSpeed: 0
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
